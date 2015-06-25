@@ -1,5 +1,5 @@
-# awesome-random-forest
-Random Forest - a curated list of resources regarding random forest
+# Awesome Random Forest
+Random Forest - a curated list of resources regarding tree-based methods and more, including but not limited to random forest, bagging and boosting.
 
 ## Table of Contents
 
