@@ -3,6 +3,7 @@ Random Forest - a curated list of resources regarding tree-based methods and mor
 
 ## Table of Contents
 
+ - [Codes] (#codes)
  - [Theory](#theory)
    - [Lectures](#lectures)
    - [Books](#books)
@@ -16,8 +17,20 @@ Random Forest - a curated list of resources regarding tree-based methods and mor
    - [Human / Hand Pose Estimation] (#human--hand-pose-estimation)
    - [3D Localization] (#3d-localization)
    - [Low-Level Vision] (#low-level-vision)
- - [Codes] (#codes)
-    
+
+## Codes
+* Matlab
+  * [Piotr Dollar's toolbox] (http://vision.ucsd.edu/~pdollar/toolbox/doc/)
+  * [Andrej Karpathy's toolbox] (https://github.com/karpathy/Random-Forest-Matlab)
+* R
+  * [Breiman and Cutler's random forests] (http://cran.r-project.org/web/packages/randomForest/)
+* C/C++
+  * [Sherwood library] (http://research.microsoft.com/en-us/downloads/52d5b9c3-a638-42a1-94a5-d549e2251728/)
+  * [Regression tree package by Pierre Geurts] (http://www.montefiore.ulg.ac.be/~geurts/Software.html)
+* Python
+  * [Scikit-learn] (http://scikit-learn.org/stable/modules/classes.html#module-sklearn.ensemble)
+* JavaScript
+  * [Forestjs] (https://github.com/karpathy/forestjs)    
    
 ## Theory
 ### Lectures
@@ -137,20 +150,5 @@ Random Forest - a curated list of resources regarding tree-based methods and mor
 * Denoising 
   * Microsoft Research + iCub Facility - Istituto Italiano di Tecnologia [[Paper] (http://research.microsoft.com/pubs/217099/CVPR2014ForestFiltering.pdf)]
     * Sean Ryan Fanello, Cem Keskin, Pushmeet Kohli, Shahram Izadi, Jamie Shotton, Antonio Criminisi, Ugo Pattacini, and Tim Paek, Filter Forests for Learning Data-Dependent Convolutional Kernels, CVPR 2014
-	
-## Codes
-* Matlab
-  * [Piotr Dollar's toolbox] (http://vision.ucsd.edu/~pdollar/toolbox/doc/)
-  * [Andrej Karpathy's toolbox] (https://github.com/karpathy/Random-Forest-Matlab)
-* R
-  * [Breiman and Cutler's random forests] (http://cran.r-project.org/web/packages/randomForest/)
-* C/C++
-  * [Sherwood library] (http://research.microsoft.com/en-us/downloads/52d5b9c3-a638-42a1-94a5-d549e2251728/)
-  * [Regression tree package by Pierre Geurts] (http://www.montefiore.ulg.ac.be/~geurts/Software.html)
-* Python
-  * [Scikit-learn] (http://scikit-learn.org/stable/modules/classes.html#module-sklearn.ensemble)
-* JavaScript
-  * [Forestjs] (https://github.com/karpathy/forestjs)
 
- 
 Maintainers - [Jiwon Kim](http://github.com/kjw0612), [Janghoon Choi](http://github.com/JanghoonChoi), [Jung Kwon Lee](http://github.com/deruci)
