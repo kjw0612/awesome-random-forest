@@ -1,4 +1,6 @@
 # Awesome Random Forest
+
+[![Join the chat at https://gitter.im/kjw0612/awesome-random-forest](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kjw0612/awesome-random-forest?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Random Forest - a curated list of resources regarding tree-based methods and more, including but not limited to random forest, bagging and boosting.
 
 ## Table of Contents
