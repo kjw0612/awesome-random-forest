@@ -14,6 +14,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
    - [Lectures](#lectures)
    - [Books](#books)
    - [Papers] (#papers)
+   - [Thesis] (#thesis)
  - [Applications] (#applications)
    - [Image Classification] (#image-classification)
    - [Object Detection] (#object-detection)
@@ -76,6 +77,10 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 * MIForests: Multiple-Instance Learning with Randomized Trees [[Paper] (http://lrs.icg.tugraz.at/pubs/leistner_eccv_10.pdf)] [[Code] (http://www.ymer.org/amir/software/milforests/)]
   * Christian Leistner, Amir Saffari, and Horst Bischof, MIForests: Multiple-Instance Learning with Randomized Trees, ECCV 2010
 
+## Thesis
+* Understanding Random Forests
+ * PhD dissertation, Gilles Louppe, July 2014. Defended on October 9, 2014. 
+ * [[Repository]](https://github.com/glouppe/phd-thesis) with thesis and related codes
 
  
 ## Applications
