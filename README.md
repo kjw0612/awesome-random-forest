@@ -66,6 +66,10 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
   * Taddy Matthew, Chun-Sheng Chen, Jun Yu, Mitch Wyle, Bayesian and Empirical Bayesian Forests, ICML 2015
 * Mondrian Forests: Efficient Online Random Forests [[Paper]](http://www.gatsby.ucl.ac.uk/~balaji/mondrian_forests_nips14.pdf) [[Code]](http://www.gatsby.ucl.ac.uk/~balaji/mondrianforest/) [[Slides]](http://www.gatsby.ucl.ac.uk/~balaji/mondrian_forests_slides.pdf)
   * Balaji Lakshminarayanan, Daniel M. Roy and Yee Whye Teh, Mondrian Forests: Efficient Online Random Forests, NIPS 2014
+* Consistency of random forests [[Paper]](http://www.normalesup.org/~scornet/paper/article.pdf) 
+ * Scornet, E., Biau, G. and Vert, J.-P. (2015). Consistency of random forests, The Annals of Statistics, in press. 
+* On the asymptotics of random forests [[Paper]](http://arxiv.org/abs/1409.2090)
+ * Scornet, E. (2015). On the asymptotics of random forests, Journal of Multivariate Analysis, in press.
 * Random Forests In Theory and In Practice [[Paper] (http://jmlr.org/proceedings/papers/v32/denil14.pdf)]
   * Misha Denil, David Matheson, Nando de Freitas, Narrowing the Gap: Random Forests In Theory and In Practice, ICML 2014
 * Decision Jungles [[Paper] (http://research.microsoft.com/pubs/205439/DecisionJunglesNIPS2013.pdf)]
