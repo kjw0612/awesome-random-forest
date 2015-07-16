@@ -3,7 +3,7 @@
 Random Forest - a curated list of resources regarding tree-based methods and more, including but not limited to random forest, bagging and boosting.
 
 ## Contributing
-Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-vision/pulls), email Jung Kwon Lee (deruci@snu.ac.kr) or join our chats to add links.
+Please feel free to [pull requests](https://github.com/kjw0612/awesome-random-forest/pulls), email Jung Kwon Lee (deruci@snu.ac.kr) or join our chats to add links.
 
 [![Join the chat at https://gitter.im/kjw0612/awesome-random-forest](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kjw0612/awesome-random-forest?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
@@ -31,6 +31,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
   * [Andrej Karpathy's toolbox] (https://github.com/karpathy/Random-Forest-Matlab)
 * R
   * [Breiman and Cutler's random forests] (http://cran.r-project.org/web/packages/randomForest/)
+  * [Hothorn et al.'s party package with `cforest` function](http://cran.r-project.org/web/packages/party/)
 * C/C++
   * [Sherwood library] (http://research.microsoft.com/en-us/downloads/52d5b9c3-a638-42a1-94a5-d549e2251728/)
   * [Regression tree package by Pierre Geurts] (http://www.montefiore.ulg.ac.be/~geurts/Software.html)
