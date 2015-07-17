@@ -38,7 +38,9 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-random-fo
 * Python
   * [Scikit-learn] (http://scikit-learn.org/stable/modules/classes.html#module-sklearn.ensemble)
 * JavaScript
-  * [Forestjs] (https://github.com/karpathy/forestjs)    
+  * [Forestjs] (https://github.com/karpathy/forestjs)
+* Go (golang)
+  * [CloudForest] (https://github.com/ryanbressler/CloudForest)
    
 ## Theory
 ### Lectures
