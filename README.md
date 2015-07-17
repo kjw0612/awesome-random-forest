@@ -116,11 +116,11 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-random-fo
   * Martin Godec, Peter M. Roth, and Horst Bischof, Hough-based Tracking of Non-Rigid Objects, ICCV 2011
 
 ### Edge Detection
-* University of California, Irvine [[Paper] (http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Hallman_Oriented_Edge_Forests_2015_CVPR_paper.pdf)]
+* University of California, Irvine [[Paper] (http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Hallman_Oriented_Edge_Forests_2015_CVPR_paper.pdf)] [[Code] (https://github.com/samhallman/oef)]
   * Sam Hallman, and Charless C. Fowlkes, Oriented Edge Forests for Boundary Detection, CVPR 2015
-* Microsoft Research [[Paper] (http://research-srv.microsoft.com/pubs/202540/DollarICCV13edges.pdf)]
+* Microsoft Research [[Paper] (http://research-srv.microsoft.com/pubs/202540/DollarICCV13edges.pdf)] [[Code] (https://github.com/pdollar/edges)]
   * Piotr Dollar, and C. Lawrence Zitnick, Structured Forests for Fast Edge Detection, ICCV 2013
-* Massachusetts Inst. of Technology + Microsoft Research [[Paper] (http://research.microsoft.com/en-us/um/people/larryz/cvpr13sketchtokens.pdf)]
+* Massachusetts Inst. of Technology + Microsoft Research [[Paper] (http://research.microsoft.com/en-us/um/people/larryz/cvpr13sketchtokens.pdf)] [[Code] (https://github.com/joelimlimit/SketchTokens)]
   * Joseph J. Lim, C. Lawrence Zitnick, and Piotr Dollar, Sketch Tokens: A Learned Mid-level Representation for Contour and Object Detection, CVPR 2013
 
 ### Semantic Segmentation
