@@ -74,7 +74,10 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-random-fo
   * Misha Denil, David Matheson, Nando de Freitas, Narrowing the Gap: Random Forests In Theory and In Practice, ICML 2014
   
 #### Model variants
-
+* Canonical Correlation Forests [[Paper](http://arxiv.org/pdf/1507.05444.pdf)]
+  * Tom Rainforth, and Frank Wood, Canonical Correlation Forests, arxiv 2015
+* Relating Cascaded Random Forests to Deep Convolutional Neural Networks [[Paper] (http://arxiv.org/pdf/1507.07583.pdf)]
+  * David L Richmond, Dagmar Kainmueller, Michael Y Yang, Eugene W Myers, and Carsten Rother, Relating Cascaded Random Forests to Deep Convolutional Neural Networks for Semantic Segmentation, arxiv 2015
 * Global Refinement of Random Forest [[Paper] (http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Ren_Global_Refinement_of_2015_CVPR_paper.pdf)]
   * Shaoqing Ren, Xudong Cao, Yichen Wei, Jian Sun, Global Refinement of Random Forest, CVPR 2015
 * Feature-Budgeted Random Forest [[Paper] (http://jmlr.org/proceedings/papers/v37/nan15.pdf)] [[Supp](http://jmlr.org/proceedings/papers/v37/nan15-supp.pdf)]
