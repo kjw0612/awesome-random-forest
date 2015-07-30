@@ -7,6 +7,8 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-random-fo
 
 [![Join the chat at https://gitter.im/kjw0612/awesome-random-forest](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kjw0612/awesome-random-forest?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+![randomforest](https://31.media.tumblr.com/79670eabe93cdd448c15f5bcb198d0fb/tumblr_inline_n8e398YbKv1s04rc3.png)
+
 ## Table of Contents
 
  - [Codes] (#codes)
@@ -14,6 +16,8 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-random-fo
    - [Lectures](#lectures)
    - [Books](#books)
    - [Papers] (#papers)
+     - [Analysis / Understanding] (#analysis--understanding)
+     - [Model variants] (#model-variants)
    - [Thesis] (#thesis)
  - [Applications] (#applications)
    - [Image Classification] (#image-classification)
@@ -61,6 +65,16 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-random-fo
   * [The Elements of Statistical Learning, (Chapter 10, 15, and 16)] (http://web.stanford.edu/~hastie/local.ftp/Springer/OLD/ESLII_print4.pdf)
   
 ### Papers
+#### Analysis / Understanding
+* Consistency of random forests [[Paper]](http://www.normalesup.org/~scornet/paper/article.pdf) 
+ * Scornet, E., Biau, G. and Vert, J.-P. (2015). Consistency of random forests, The Annals of Statistics, in press. 
+* On the asymptotics of random forests [[Paper]](http://arxiv.org/abs/1409.2090)
+ * Scornet, E. (2015). On the asymptotics of random forests, Journal of Multivariate Analysis, in press.
+* Random Forests In Theory and In Practice [[Paper] (http://jmlr.org/proceedings/papers/v32/denil14.pdf)]
+  * Misha Denil, David Matheson, Nando de Freitas, Narrowing the Gap: Random Forests In Theory and In Practice, ICML 2014
+  
+#### Model variants
+
 * Global Refinement of Random Forest [[Paper] (http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Ren_Global_Refinement_of_2015_CVPR_paper.pdf)]
   * Shaoqing Ren, Xudong Cao, Yichen Wei, Jian Sun, Global Refinement of Random Forest, CVPR 2015
 * Feature-Budgeted Random Forest [[Paper] (http://jmlr.org/proceedings/papers/v37/nan15.pdf)] [[Supp](http://jmlr.org/proceedings/papers/v37/nan15-supp.pdf)]
@@ -69,12 +83,6 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-random-fo
   * Taddy Matthew, Chun-Sheng Chen, Jun Yu, Mitch Wyle, Bayesian and Empirical Bayesian Forests, ICML 2015
 * Mondrian Forests: Efficient Online Random Forests [[Paper]](http://www.gatsby.ucl.ac.uk/~balaji/mondrian_forests_nips14.pdf) [[Code]](http://www.gatsby.ucl.ac.uk/~balaji/mondrianforest/) [[Slides]](http://www.gatsby.ucl.ac.uk/~balaji/mondrian_forests_slides.pdf)
   * Balaji Lakshminarayanan, Daniel M. Roy and Yee Whye Teh, Mondrian Forests: Efficient Online Random Forests, NIPS 2014
-* Consistency of random forests [[Paper]](http://www.normalesup.org/~scornet/paper/article.pdf) 
- * Scornet, E., Biau, G. and Vert, J.-P. (2015). Consistency of random forests, The Annals of Statistics, in press. 
-* On the asymptotics of random forests [[Paper]](http://arxiv.org/abs/1409.2090)
- * Scornet, E. (2015). On the asymptotics of random forests, Journal of Multivariate Analysis, in press.
-* Random Forests In Theory and In Practice [[Paper] (http://jmlr.org/proceedings/papers/v32/denil14.pdf)]
-  * Misha Denil, David Matheson, Nando de Freitas, Narrowing the Gap: Random Forests In Theory and In Practice, ICML 2014
 * Decision Jungles [[Paper] (http://research.microsoft.com/pubs/205439/DecisionJunglesNIPS2013.pdf)]
   * Jamie Shotton, Toby Sharp, Pushmeet Kohli, Sebastian Nowozin, John Winn, and Antonio Criminisi, Decision Jungles: Compact and Rich Models for Classification, NIPS 2013
 * Semi-supervised Node Splitting for Random Forest Construction [[Paper] (http://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Liu_Semi-supervised_Node_Splitting_2013_CVPR_paper.pdf)]
