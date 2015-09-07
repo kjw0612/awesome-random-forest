@@ -180,4 +180,4 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-random-fo
   * Microsoft Research + iCub Facility - Istituto Italiano di Tecnologia [[Paper] (http://research.microsoft.com/pubs/217099/CVPR2014ForestFiltering.pdf)]
     * Sean Ryan Fanello, Cem Keskin, Pushmeet Kohli, Shahram Izadi, Jamie Shotton, Antonio Criminisi, Ugo Pattacini, and Tim Paek, Filter Forests for Learning Data-Dependent Convolutional Kernels, CVPR 2014
 
-Maintainers - [Jiwon Kim](http://github.com/kjw0612), [Janghoon Choi](http://github.com/JanghoonChoi), [Jung Kwon Lee](http://github.com/deruci)
+Maintainers - [Jiwon Kim](http://github.com/kjw0612), [Jung Kwon Lee](http://github.com/deruci)
