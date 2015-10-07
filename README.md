@@ -33,6 +33,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-random-fo
 * Matlab
   * [Piotr Dollar's toolbox] (http://vision.ucsd.edu/~pdollar/toolbox/doc/)
   * [Andrej Karpathy's toolbox] (https://github.com/karpathy/Random-Forest-Matlab)
+  * [M5PrimeLab by Gints Jekabsons] (http://www.cs.rtu.lv/jekabsons/regression.html)
 * R
   * [Breiman and Cutler's random forests] (http://cran.r-project.org/web/packages/randomForest/)
   * [Hothorn et al.'s party package with `cforest` function](http://cran.r-project.org/web/packages/party/)
