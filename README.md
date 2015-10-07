@@ -28,6 +28,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-random-fo
    - [Human / Hand Pose Estimation] (#human--hand-pose-estimation)
    - [3D Localization] (#3d-localization)
    - [Low-Level Vision] (#low-level-vision)
+   - [Facial Expression Recognition] (#facial-expression-recognition)
 
 ## Codes
 * Matlab
@@ -75,6 +76,8 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-random-fo
   * Misha Denil, David Matheson, Nando de Freitas, Narrowing the Gap: Random Forests In Theory and In Practice, ICML 2014
   
 #### Model variants
+* Deep Neural Decision Forests [[Paper](http://research.microsoft.com/pubs/255952/ICCV15_DeepNDF_main.pdf)]
+  * Peter Kontschieder, Madalina Fiterau, Antonio Criminisi, and Samuel Rota Bulo, Deep Neural Decision Forests, ICCV 2015
 * Canonical Correlation Forests [[Paper](http://arxiv.org/pdf/1507.05444.pdf)]
   * Tom Rainforth, and Frank Wood, Canonical Correlation Forests, arxiv 2015
 * Relating Cascaded Random Forests to Deep Convolutional Neural Networks [[Paper] (http://arxiv.org/pdf/1507.07583.pdf)]
@@ -175,10 +178,16 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-random-fo
 
 ### Low-Level vision
 * Super-Resolution
+  * Technicolor R&I Hannover [[Paper](https://technicolor-my.sharepoint.com/personal/jordi_salvador_technicolor_com/_layouts/15/guestaccess.aspx?guestaccesstoken=2z88Le9arMQ7tcGGYApHmdM9Pet2AqqoxMBDcu6eRbc%3d&docid=0e7f0b9ed1d0f4497829ae6b2b0deeec3)]
+    * Jordi Salvador, and Eduardo Pérez-Pellitero, Naive Bayes Super-Resolution Forest, ICCV 2015
   * Graz University of Technology [[Paper] (http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Schulter_Fast_and_Accurate_2015_CVPR_paper.pdf)]
     * Samuel Schulter, Christian Leistner, and Horst Bischof, Fast and Accurate Image Upscaling with Super-Resolution Forests, CVPR 2015
 * Denoising 
   * Microsoft Research + iCub Facility - Istituto Italiano di Tecnologia [[Paper] (http://research.microsoft.com/pubs/217099/CVPR2014ForestFiltering.pdf)]
     * Sean Ryan Fanello, Cem Keskin, Pushmeet Kohli, Shahram Izadi, Jamie Shotton, Antonio Criminisi, Ugo Pattacini, and Tim Paek, Filter Forests for Learning Data-Dependent Convolutional Kernels, CVPR 2014
+
+### Facial expression recognition
+* Sorbonne Universites [[Paper](http://www.isir.upmc.fr/files/2015ACTI3549.pdf)]
+  * Arnaud Dapogny, Kevin Bailly, and Severine Dubuisson, Pairwise Conditional Random Forests for Facial Expression Recognition, ICCV 2015
 
 Maintainers - [Jiwon Kim](http://github.com/kjw0612), [Jung Kwon Lee](http://github.com/deruci)
