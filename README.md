@@ -66,8 +66,8 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-random-fo
   * [Decision Forests for Computer Vision and Medical Image Analysis] (http://link.springer.com/book/10.1007%2F978-1-4471-4929-3)
 * Trevor Hastie, Robert Tibshirani, Jerome Friedman (2008)
   * [The Elements of Statistical Learning, (Chapter 10, 15, and 16)] (http://web.stanford.edu/~hastie/local.ftp/Springer/OLD/ESLII_print4.pdf)
-* [Devroye, Gyorfi, and Lugosi, (1996).  (Chapter 20, 21)]
-  * [A Probabilistic Theory of Pattern Recognition](http://www.szit.bme.hu/~gyorfi/pbook.pdf)
+* Luc Devroye, Laszlo Gyorfi, Gabor Lugosi (1996) 
+  * [A Probabilistic Theory of Pattern Recognition (Chapter 20, 21)](http://www.szit.bme.hu/~gyorfi/pbook.pdf)
   
 ### Papers
 #### Analysis / Understanding
