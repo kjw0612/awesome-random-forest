@@ -92,6 +92,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-random-fo
   * Taddy Matthew, Chun-Sheng Chen, Jun Yu, Mitch Wyle, Bayesian and Empirical Bayesian Forests, ICML 2015
 * Mondrian Forests: Efficient Online Random Forests [[Paper]](http://www.gatsby.ucl.ac.uk/~balaji/mondrian_forests_nips14.pdf) [[Code]](http://www.gatsby.ucl.ac.uk/~balaji/mondrianforest/) [[Slides]](http://www.gatsby.ucl.ac.uk/~balaji/mondrian_forests_slides.pdf)
   * Balaji Lakshminarayanan, Daniel M. Roy and Yee Whye Teh, Mondrian Forests: Efficient Online Random Forests, NIPS 2014
+* Extremely randomized trees P Geurts, D Ernst, L Wehenkel - Machine learning, 2006 [[Paper](http://orbi.ulg.be/bitstream/2268/9357/1/geurts-mlj-advance.pdf)] [[Code] (http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.ExtraTreesClassifier.html)]
 * Decision Jungles [[Paper] (http://research.microsoft.com/pubs/205439/DecisionJunglesNIPS2013.pdf)]
   * Jamie Shotton, Toby Sharp, Pushmeet Kohli, Sebastian Nowozin, John Winn, and Antonio Criminisi, Decision Jungles: Compact and Rich Models for Classification, NIPS 2013
   * Laptev, Dmitry, and Joachim M. Buhmann. Transformation-invariant convolutional jungles. CVPR 2015. [[Paper](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Laptev_Transformation-Invariant_Convolutional_Jungles_2015_CVPR_paper.pdf)]
@@ -101,13 +102,12 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-random-fo
   * Sebastian Nowozin, Improved Information Gain Estimates for Decision Tree Induction, ICML 2012
 * MIForests: Multiple-Instance Learning with Randomized Trees [[Paper] (http://lrs.icg.tugraz.at/pubs/leistner_eccv_10.pdf)] [[Code] (http://www.ymer.org/amir/software/milforests/)]
   * Christian Leistner, Amir Saffari, and Horst Bischof, MIForests: Multiple-Instance Learning with Randomized Trees, ECCV 2010
-  * Samuel Schulter, Paul Wohlhart, Christian Leistner, Amir Saffari, Peter M. Roth, Horst Bischof: Alternating Decision Forests. CVPR 2013 [Paper](http://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Schulter_Alternating_Decision_Forests_2013_CVPR_paper.pdf)
-  * [[Decision Forests, Convolutional Networks and the Models in-Between](https://arxiv.org/abs/1603.01250)]
-  * Random Uniform Forests Saïp Ciss [[Paper](https://hal.archives-ouvertes.fr/hal-01104340/)] [[Code R](https://cran.r-project.org/web/packages/randomUniformForest/index.html)]
-  * Extremely randomized trees P Geurts, D Ernst, L Wehenkel - Machine learning, 2006 [[Paper](http://orbi.ulg.be/bitstream/2268/9357/1/geurts-mlj-advance.pdf)] [[Code] (http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.ExtraTreesClassifier.html)]
- * Autoencoder Trees, Ozan İrsoy, Ethem Alpaydın 2015 [[Paper](http://www.jmlr.org/proceedings/papers/v45/Irsoy15.pdf)] 
+* Samuel Schulter, Paul Wohlhart, Christian Leistner, Amir Saffari, Peter M. Roth, Horst Bischof: Alternating Decision Forests. CVPR 2013 [Paper](http://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Schulter_Alternating_Decision_Forests_2013_CVPR_paper.pdf)
+* Decision Forests, Convolutional Networks and the Models in-Between [[Paper](https://arxiv.org/abs/1603.01250)]
+* Random Uniform Forests Saïp Ciss [[Paper](https://hal.archives-ouvertes.fr/hal-01104340/)] [[Code R](https://cran.r-project.org/web/packages/randomUniformForest/index.html)]
+* Autoencoder Trees, Ozan İrsoy, Ethem Alpaydın 2015 [[Paper](http://www.jmlr.org/proceedings/papers/v45/Irsoy15.pdf)] 
  
- 
+
 ## Thesis
 * Understanding Random Forests
  * PhD dissertation, Gilles Louppe, July 2014. Defended on October 9, 2014. 
