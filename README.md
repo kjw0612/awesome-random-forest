@@ -205,12 +205,13 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-random-fo
 * L1-based compression of random forest models Arnaud Joly, Fran¸cois Schnitzler, Pierre Geurts and Louis Wehenkel ESANN 2012 [[Paper](https://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2012-43.pdf)]
 * Feature-Budgeted Random Forest [[Paper] (http://jmlr.org/proceedings/papers/v37/nan15.pdf)] [[Supp](http://jmlr.org/proceedings/papers/v37/nan15-supp.pdf)]
   * Feng Nan, Joseph Wang, Venkatesh Saligrama, Feature-Budgeted Random Forest, ICML 2015 
-* Pruning Random Forests for Prediction on a Budget Feng Nan, Joseph Wang, Venkatesh Saligrama [[Paper](https://papers.nips.cc/paper/6250-pruning-random-forests-for-prediction-on-a-budget.pdf)]
+  * Pruning Random Forests for Prediction on a Budget Feng Nan, Joseph Wang, Venkatesh Saligrama NIPS 2016 [[Paper](https://papers.nips.cc/paper/6250-pruning-random-forests-for-prediction-on-a-budget.pdf)]
 * Meinshausen, Nicolai. "Node harvest." The Annals of Applied Statistics 4.4 (2010): 2049-2072. [[Paper](http://projecteuclid.org/download/pdfview_1/euclid.aoas/1294167809)] [[Code R](https://cran.r-project.org/web/packages/nodeHarvest/index.html)] [[Code Python](https://github.com/mbillingr/NodeHarvest)]
 * Making Tree Ensembles Interpretable: A Bayesian Model Selection Approach S. Hara, K. Hayashi, [[Paper](https://arxiv.org/abs/1606.09066)] [[Code](https://github.com/sato9hara/defragTrees)]
 * Cui, Zhicheng, et al. "Optimal action extraction for random forests and boosted trees." ACM SIGKDD 2015. [[Paper](http://www.cse.wustl.edu/~ychen/public/OAE.pdf)]
 * DART: Dropouts meet Multiple Additive Regression Trees K. V. Rashmi, Ran Gilad-Bachrach [[Paper](http://www.jmlr.org/proceedings/papers/v38/korlakaivinayak15.pdf)]
 * Begon, Jean-Michel, Arnaud Joly, and Pierre Geurts. Joint learning and pruning of decision forests. (2016). [[Paper](http://orbi.ulg.ac.be/bitstream/2268/202344/1/Begon_jlpdf_abstract.pdf)]	
+
 
 
 Maintainers - [Jiwon Kim](http://github.com/kjw0612), [Jung Kwon Lee](http://github.com/deruci)
