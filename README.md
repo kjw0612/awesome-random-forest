@@ -29,6 +29,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-random-fo
    - [3D Localization] (#3d-localization)
    - [Low-Level Vision] (#low-level-vision)
    - [Facial Expression Recognition] (#facial-expression-recognition)
+   
 
 ## Codes
 * Matlab
@@ -65,6 +66,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-random-fo
   * [Decision Forests for Computer Vision and Medical Image Analysis] (http://link.springer.com/book/10.1007%2F978-1-4471-4929-3)
 * Trevor Hastie, Robert Tibshirani, Jerome Friedman (2008)
   * [The Elements of Statistical Learning, (Chapter 10, 15, and 16)] (http://web.stanford.edu/~hastie/local.ftp/Springer/OLD/ESLII_print4.pdf)
+* [A Probabilistic Theory of Pattern Recognition, Devroye, Gyorfi, and Lugosi, 1996.  (Chapter 20, 21)](http://www.szit.bme.hu/~gyorfi/pbook.pdf)
   
 ### Papers
 #### Analysis / Understanding
@@ -74,6 +76,8 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-random-fo
  * Scornet, E. (2015). On the asymptotics of random forests, Journal of Multivariate Analysis, in press.
 * Random Forests In Theory and In Practice [[Paper] (http://jmlr.org/proceedings/papers/v32/denil14.pdf)]
   * Misha Denil, David Matheson, Nando de Freitas, Narrowing the Gap: Random Forests In Theory and In Practice, ICML 2014
+* Explaining the Success of AdaBoost and Random Forests as Interpolating Classifiers Abraham J. Wyner, Matthew Olson, Justin Bleich, David Mease [Paper](https://arxiv.org/abs/1504.07676)
+* 
   
 #### Model variants
 * Deep Neural Decision Forests [[Paper](http://research.microsoft.com/pubs/255952/ICCV15_DeepNDF_main.pdf)]
@@ -92,13 +96,16 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-random-fo
   * Balaji Lakshminarayanan, Daniel M. Roy and Yee Whye Teh, Mondrian Forests: Efficient Online Random Forests, NIPS 2014
 * Decision Jungles [[Paper] (http://research.microsoft.com/pubs/205439/DecisionJunglesNIPS2013.pdf)]
   * Jamie Shotton, Toby Sharp, Pushmeet Kohli, Sebastian Nowozin, John Winn, and Antonio Criminisi, Decision Jungles: Compact and Rich Models for Classification, NIPS 2013
+  * Laptev, Dmitry, and Joachim M. Buhmann. Transformation-invariant convolutional jungles. CVPR 2015. [Paper](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Laptev_Transformation-Invariant_Convolutional_Jungles_2015_CVPR_paper.pdf)
 * Semi-supervised Node Splitting for Random Forest Construction [[Paper] (http://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Liu_Semi-supervised_Node_Splitting_2013_CVPR_paper.pdf)]
   * Xiao Liu, Mingli Song, Dacheng Tao, Zicheng Liu, Luming Zhang, Chun Chen and Jiajun Bu, Semi-supervised Node Splitting for Random Forest Construction, CVPR 2013
 * Improved Information Gain Estimates for Decision Tree Induction [[Paper] (http://www.nowozin.net/sebastian/papers/nowozin2012infogain.pdf)]
   * Sebastian Nowozin, Improved Information Gain Estimates for Decision Tree Induction, ICML 2012
 * MIForests: Multiple-Instance Learning with Randomized Trees [[Paper] (http://lrs.icg.tugraz.at/pubs/leistner_eccv_10.pdf)] [[Code] (http://www.ymer.org/amir/software/milforests/)]
   * Christian Leistner, Amir Saffari, and Horst Bischof, MIForests: Multiple-Instance Learning with Randomized Trees, ECCV 2010
-
+  * Samuel Schulter, Paul Wohlhart, Christian Leistner, Amir Saffari, Peter M. Roth, Horst Bischof: Alternating Decision Forests. CVPR 2013 [Paper](http://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Schulter_Alternating_Decision_Forests_2013_CVPR_paper.pdf)
+  * [Decision Forests, Convolutional Networks and the Models in-Between](https://arxiv.org/abs/1603.01250)
+  
 ## Thesis
 * Understanding Random Forests
  * PhD dissertation, Gilles Louppe, July 2014. Defended on October 9, 2014. 
@@ -189,5 +196,11 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-random-fo
 ### Facial expression recognition
 * Sorbonne Universites [[Paper](http://www.isir.upmc.fr/files/2015ACTI3549.pdf)]
   * Arnaud Dapogny, Kevin Bailly, and Severine Dubuisson, Pairwise Conditional Random Forests for Facial Expression Recognition, ICCV 2015
+  
+### Interpretability, regularization, compression pruning and feature selection
+* Meinshausen, Nicolai. "Node harvest." The Annals of Applied Statistics 4.4 (2010): 2049-2072. [Paper](http://projecteuclid.org/download/pdfview_1/euclid.aoas/1294167809) [Code R](https://cran.r-project.org/web/packages/nodeHarvest/index.html) [Code Python](https://github.com/mbillingr/NodeHarvest)
+* Making Tree Ensembles Interpretable: A Bayesian Model Selection Approach S. Hara, K. Hayashi, [Paper](https://arxiv.org/abs/1606.09066) [Code](https://github.com/sato9hara/defragTrees)
+* Cui, Zhicheng, et al. "Optimal action extraction for random forests and boosted trees." ACM SIGKDD 2015. [Paper](http://www.cse.wustl.edu/~ychen/public/OAE.pdf)
+* DART: Dropouts meet Multiple Additive Regression Trees K. V. Rashmi, Ran Gilad-Bachrach [Paper](http://www.jmlr.org/proceedings/papers/v38/korlakaivinayak15.pdf)
 
 Maintainers - [Jiwon Kim](http://github.com/kjw0612), [Jung Kwon Lee](http://github.com/deruci)
