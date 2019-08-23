@@ -43,6 +43,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-random-fo
 * C/C++
   * [Sherwood library] (http://research.microsoft.com/en-us/downloads/52d5b9c3-a638-42a1-94a5-d549e2251728/)
   * [Regression tree package by Pierre Geurts] (http://www.montefiore.ulg.ac.be/~geurts/Software.html)
+  * [ranger: A Fast Implementation of Random Forests] (https://github.com/imbs-hl/ranger)
 * Python
   * [Scikit-learn] (http://scikit-learn.org/stable/modules/classes.html#module-sklearn.ensemble)
 * JavaScript
