@@ -3,7 +3,9 @@
 Random Forest - a curated list of resources regarding tree-based methods and more, including but not limited to random forest, bagging and boosting.
 
 ## Contributing
-Please feel free to [pull requests](https://github.com/kjw0612/awesome-random-forest/pulls), email Jung Kwon Lee (deruci@snu.ac.kr) or join our chats to add links.
+Please feel free to [pull requests](https://github.com/kjw0612/awesome-random-forest/pulls).
+
+The project is not actively maintained.
 
 [![Join the chat at https://gitter.im/kjw0612/awesome-random-forest](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kjw0612/awesome-random-forest?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
