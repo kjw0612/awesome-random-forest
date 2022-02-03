@@ -85,7 +85,7 @@ The project is not actively maintained.
 
   
 #### Model variants
-* Deep Neural Decision Forests [[Paper](http://research.microsoft.com/pubs/255952/ICCV15_DeepNDF_main.pdf)]
+* Deep Neural Decision Forests [[Paper](https://www.microsoft.com/en-us/research/publication/deep-neural-decision-forests/)]
   * Peter Kontschieder, Madalina Fiterau, Antonio Criminisi, and Samuel Rota Bulo, Deep Neural Decision Forests, ICCV 2015
 * Canonical Correlation Forests [[Paper](http://arxiv.org/pdf/1507.05444.pdf)]
   * Tom Rainforth, and Frank Wood, Canonical Correlation Forests, arxiv 2015
